@@ -2,6 +2,6 @@
 #include <iosteam>
 int main()
 {
-    std::count << "Hello world!!!!!" << std::endl;
+    std::count << "Hello world!" << std::endl;
     return 0
 }
